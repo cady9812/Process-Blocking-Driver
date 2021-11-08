@@ -1,0 +1,20 @@
+﻿  Building 'sample' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  sample.c
+C:\Users\SBD300\Desktop\sample-6(프로세스실행중지)\sample\sample.c(122,15): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\SBD300\Desktop\sample-6(프로세스실행중지)\sample\sample.c(123,15): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\SBD300\Desktop\sample-6(프로세스실행중지)\sample\sample.c(124,15): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\SBD300\Desktop\sample-6(프로세스실행중지)\sample\sample.c(146,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\SBD300\Desktop\sample-6(프로세스실행중지)\sample\sample.c(211,15): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\SBD300\Desktop\sample-6(프로세스실행중지)\sample\sample.c(212,15): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\SBD300\Desktop\sample-6(프로세스실행중지)\sample\sample.c(213,15): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\SBD300\Desktop\sample-6(프로세스실행중지)\sample\sample.c(265,55): warning C4133: '함수': 'ULONG *'과(와) 'size_t *' 사이의 형식이 호환되지 않습니다.
+C:\Users\SBD300\Desktop\sample-6(프로세스실행중지)\sample\sample.c(319,30): warning C4133: '=': 'CHAR *'과(와) 'PWCH' 사이의 형식이 호환되지 않습니다.
+C:\Users\SBD300\Desktop\sample-6(프로세스실행중지)\sample\sample.c(330,9): warning C4996: '_wcsupr': This function or variable may be unsafe. Consider using _wcsupr_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\SBD300\Desktop\sample-6(프로세스실행중지)\sample\sample.c(408,19): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\SBD300\Desktop\sample-6(프로세스실행중지)\sample\sample.c(410,23): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  sample.vcxproj -> C:\Users\SBD300\Desktop\sample-6(프로세스실행중지)\x64\Debug\sample.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\SBD300\Desktop\sample-6()\x64\Debug\sample.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  
